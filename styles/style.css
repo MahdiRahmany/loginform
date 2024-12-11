@@ -46,7 +46,7 @@ input:focus {
 
 button[type="submit"],
 input[type="submit"] {
-  background-color: #2ed573;
+  background-color: #db3232;
   color: white;
   padding: 12px;
   border-radius: 8px;
